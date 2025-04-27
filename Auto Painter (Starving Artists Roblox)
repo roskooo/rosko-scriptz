@@ -1,0 +1,7 @@
+-- Roblox use only (Starving Artists)
+-- Auto paints any image on google images. 
+-- To find URL, get the image you want on google, then click on it. When its expanded on the side, right click and press open in new tab. Then copy the link in that tab.
+-- Starving Artists can detect work that was not made by you, but it only does it sometimes. (🖨️ icon)
+-- takes about 10 minutes per image to load.
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/itsnoctural/Utilities/main/Closed/StarvingArtist.lua"))()
