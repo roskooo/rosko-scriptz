@@ -1,0 +1,5 @@
+-- Not made by me, made by "Exordum"
+-- Roblox use only [Blocks n' Props, used to be "Jenga"] https://www.roblox.com/games/2537430692/Blocks-n-Props
+
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Booger-Aids-V2/Exordum/refs/heads/main/Blocks%20n'%20Props"))()
